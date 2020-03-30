@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24193
+D I2C Controlled 4.5-A Single Cell USB/Adapter Charger, VQFN 24-pin
+K Cell USB/Adapter Charger
+F http://www.ti.com/lit/ds/symlink/bq24193.pdf
+$ENDCMP
+#
+#End Doc Library
