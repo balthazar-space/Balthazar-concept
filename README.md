@@ -11,7 +11,7 @@ KiCad 5.1.5 files you will find in:
 1. module BalthazarPSU is a combined battery charger, buck-boost coverter and stereo power amplifier. 
 
 2. module BalthazarKeyboard is a simplified a bit ergonomic computer keyboard with "diy" approch. 
-3. I updated the keyboard to have some more geometric consistency.
+   in the two versions. The second iteration of the updated keyboard is having some more geometric consistency.
 
 3. Module BalthazarIO is a simple USB2.0 four-port hub for the internal devices: 
    keyboard and touchpad (optional trackpad), webcam and optional audiocard.
