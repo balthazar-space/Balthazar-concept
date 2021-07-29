@@ -6,13 +6,19 @@ with the main aim for team access
 
 We are building it from periphery - inwards.
 
-KiCad 5.1.5 files
+KiCad 5.1.5 files you will find in:
 
 1. module BalthazarPSU is a combined battery charger, buck-boost coverter and stereo power amplifier. 
 
-2. module BalthazarKeyboard is a simplified a bit ergonomic computer keyboard with "diy" approch. I updated the keyboard to have some more geometric consistency.
+2. module BalthazarKeyboard is a simplified a bit ergonomic computer keyboard with "diy" approch. 
+3. I updated the keyboard to have some more geometric consistency.
 
-3. module BalthazarIO is a simple USB2.0 four-port hub for the internal devices: keyboard and touchpad, webcam and optional audiocard.
+3. Module BalthazarIO is a simple USB2.0 four-port hub for the internal devices: 
+   keyboard and touchpad (optional trackpad), webcam and optional audiocard.
+
+Drawings, in DXF and DWG and STL formates in:
+
+1. Case and the design
 
 So, far no prototype was built yet - these are preliminary files to be checked in practise, however the progress and pictures of the first pre-prototype are to be seen on our https://balthazar.space website under the News and Specifications and all over (also, many pretty pictures there and user-case scenarios).
 
