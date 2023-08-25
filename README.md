@@ -1,6 +1,6 @@
-# balthazar
+# Balthazar
 
-Open-hardware laptop computer modules
+Open-hardware laptop computer modules description and concept.
 
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar
 with the main aim for team access
