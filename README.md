@@ -1,5 +1,6 @@
 # balthazar
-open-hardware laptop computer modules
+
+Open-hardware laptop computer modules
 
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar
 with the main aim for team access
@@ -23,3 +24,13 @@ Drawings, in DXF and DWG and STL formates in:
 So, far no prototype was built yet - these are preliminary files to be checked in practise, however the progress and pictures of the first pre-prototype are to be seen on our https://balthazar.space website under the News and Specifications and all over (also, many pretty pictures there and user-case scenarios).
 
 Some philosophy is in the .pdf files included. The newest is .pdf number 3.
+
+
+## Funding
+
+This project is funded through the [NGI Zero Entrust Fund](https://nlnet.nl/entrust), a fund
+established by [NLnet](https://nlnet.nl) with financial support from the European Commission's
+[Next Generation Internet](https://ngi.eu) program. Learn more on the [NLnet project page](https://nlnet.nl/project/Balthazar-Casing/).
+
+[<img src="https://nlnet.nl/logo/banner.png" alt="NLNet foundation logo" width="300" />](https://nlnet.nl)
+[<img src="https://nlnet.nl/image/logos/NGI0Entrust_tag.svg" alt="NGI0 Entrust Logo" width="300" />](https://nlnet.nl/entrust)
