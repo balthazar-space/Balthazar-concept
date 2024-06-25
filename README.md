@@ -9,22 +9,28 @@ We are building it from periphery - inwards.
 
 ## Repositories
 
-1. [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU3) is a combined battery charger, buck-boost coverter and stereo power amplifier.
+### BalthazarPSU
+
+[BalthazarPSU](https://github.com/balthazar-space/balthazarPSU3) is a combined battery charger, buck-boost coverter and stereo power amplifier.
+
+Previous versions:
    - [Version 2](https://github.com/balthazar-space/balthazarPSU2)
    - [Version 1](https://github.com/balthazar-space/balthazarPSU)
-   
-2. [BalthazarKeyboard](https://github.com/balthazar-space/balthazarKeyboard3) is a somewhat simplified ergonomic computer keyboard with a "diy" approach. The second iteration of the updated keyboard has some more geometric consistency. The third version adds OLED support and a menu for password protecting bootup and choosing a boot target (actual booting is still WIP).
+
+### BalthazarKeyboard
+[BalthazarKeyboard](https://github.com/balthazar-space/balthazarKeyboard3) is a somewhat simplified ergonomic computer keyboard with a "diy" approach. The second iteration of the updated keyboard has some more geometric consistency. The third version adds OLED support and a menu for password protecting bootup and choosing a boot target (actual booting is still WIP).
+
+Previous versions:
    - [Version 2](https://github.com/balthazar-space/balthazarKeyboard2)
    - [Version 1](https://github.com/balthazar-space/balthazarKeyboard)
 
-3. [BalthazarIO](https://github.com/balthazar-space/balthazarIO) is a simple USB2.0 four-port hub for the internal devices:
+### BalthazarIO
+[BalthazarIO](https://github.com/balthazar-space/balthazarIO) is a simple USB2.0 four-port hub for the internal devices:
    keyboard and touchpad (optional trackpad), webcam and optional audiocard.
 
-### Drawings
+### Case and design
 
-Drawings, in DXF and DWG and STL formates in:
-
-1. [Case and the design](https://github.com/balthazar-space/case-and-design)
+[Case and design](https://github.com/balthazar-space/case-and-design) contains drawings, in DXF, DWG and STL formats.
 
 ## Prototype
 
