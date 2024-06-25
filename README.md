@@ -9,10 +9,6 @@ We are building it from periphery - inwards.
 
 ## Repositories
 
-### KiCad designs
-
-KiCad 5.1.5 files you will find in:
-
 1. [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU3) is a combined battery charger, buck-boost coverter and stereo power amplifier.
    - [Version 2](https://github.com/balthazar-space/balthazarPSU2)
    - [Version 1](https://github.com/balthazar-space/balthazarPSU)
