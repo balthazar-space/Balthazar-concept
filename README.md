@@ -3,31 +3,47 @@
 Open-hardware laptop computer modules description and concept.
 
 These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar
-with the main aim for team access
+with the main aim for team access.
 
 We are building it from periphery - inwards.
 
+## Repositories
+
+### KiCad designs
+
 KiCad 5.1.5 files you will find in:
 
-1. module [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU) is a combined battery charger, buck-boost coverter and stereo power amplifier. 
+1. [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU) is a combined battery charger, buck-boost coverter and stereo power amplifier.
 
-2. module BalthazarKeyboard is a simplified a bit ergonomic computer keyboard with "diy" approch. 
-   in the two versions. The second iteration of the updated keyboard is having some more geometric consistency.
-   - [Version 1](https://github.com/balthazar-space/balthazarKeyboard)
-   - [Version 2](https://github.com/balthazar-space/balthazarKeyboard2)
+2. [BalthazarKeyboard](https://github.com/balthazar-space/balthazarKeyboard3) is a somewhat simplified ergonomic computer keyboard with a "diy" approach. The second iteration of the updated keyboard has some more geometric consistency. The third version adds OLED support and a menu for password protecting bootup and choosing a boot target (actual booting is still WIP).
    - [Version 3](https://github.com/balthazar-space/balthazarKeyboard3)
+   - [Version 2](https://github.com/balthazar-space/balthazarKeyboard2)
+   - [Version 1](https://github.com/balthazar-space/balthazarKeyboard)
 
-4. Module BalthazarIO is a simple USB2.0 four-port hub for the internal devices: 
+3. [BalthazarIO](https://github.com/balthazar-space/balthazarIO) is a simple USB2.0 four-port hub for the internal devices:
    keyboard and touchpad (optional trackpad), webcam and optional audiocard.
+
+### Drawings
 
 Drawings, in DXF and DWG and STL formates in:
 
-1. Case and the design
+1. [Case and the design](https://github.com/balthazar-space/case-and-design)
+
+## Prototype
 
 So, far no prototype was built yet - these are preliminary files to be checked in practise, however the progress and pictures of the first pre-prototype are to be seen on our https://balthazar.space website under the News and Specifications and all over (also, many pretty pictures there and user-case scenarios).
 
-Some philosophy is in the .pdf files included. The newest is .pdf number 3.
+Some philosophy is in the .pdf files included. The newest is [.pdf number 3](./Balthazar_System03.pdf).
 
+## License
+
+All resources licensed under the CERN Open Hardware Licence CERN-OHL W V.2.0
+
+Version 2.0 of the CERN-OHL introduces three variants of the licence – strongly (S) reciprocal, weakly (W) reciprocal and permissive (P) – which aim to address specific constraints caused by different collaboration models currently used in open-hardware projects. 
+
+The first two variants mean that if any product is made using an open hardware design, the design of that product, including any improvements or modifications, should be made available under the same licence as that of the original product. Permissive licences do not impose this condition.
+
+See the [LICENSE.md](./LICENSE.md) file for more information.
 
 ## Funding
 
