@@ -32,6 +32,10 @@ Previous versions:
 
 [Case and design](https://github.com/balthazar-space/case-and-design) contains drawings, in DXF, DWG and STL formats.
 
+### Unifying-PCB
+
+[Unifying-PCB](https://github.com/balthazar-space/Unifying-PCB) is a single PCB solution for connecting the three previously designed Balthazar modules (I/O, power supply, USB 2.0, 3.0 controllers, keyboard and adding Compute Module compatible FPGA boards. 
+
 ## Prototype
 
 So, far no prototype was built yet - these are preliminary files to be checked in practise, however the progress and pictures of the first pre-prototype are to be seen on our https://balthazar.space website under the News and Specifications and all over (also, many pretty pictures there and user-case scenarios).
