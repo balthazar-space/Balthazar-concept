@@ -13,10 +13,11 @@ We are building it from periphery - inwards.
 
 KiCad 5.1.5 files you will find in:
 
-1. [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU) is a combined battery charger, buck-boost coverter and stereo power amplifier.
-
+1. [BalthazarPSU](https://github.com/balthazar-space/balthazarPSU3) is a combined battery charger, buck-boost coverter and stereo power amplifier.
+   - [Version 2](https://github.com/balthazar-space/balthazarPSU2)
+   - [Version 1](https://github.com/balthazar-space/balthazarPSU)
+   
 2. [BalthazarKeyboard](https://github.com/balthazar-space/balthazarKeyboard3) is a somewhat simplified ergonomic computer keyboard with a "diy" approach. The second iteration of the updated keyboard has some more geometric consistency. The third version adds OLED support and a menu for password protecting bootup and choosing a boot target (actual booting is still WIP).
-   - [Version 3](https://github.com/balthazar-space/balthazarKeyboard3)
    - [Version 2](https://github.com/balthazar-space/balthazarKeyboard2)
    - [Version 1](https://github.com/balthazar-space/balthazarKeyboard)
 
