@@ -20,6 +20,8 @@ Previous versions:
 ### BalthazarKeyboard
 [BalthazarKeyboard](https://github.com/balthazar-space/balthazarKeyboard3) is a somewhat simplified ergonomic computer keyboard with a "diy" approach. The second iteration of the updated keyboard has some more geometric consistency. The third version adds OLED support and a menu for password protecting bootup and choosing a boot target (actual booting is still WIP).
 
+QMK based firmware can be found in [BalthazarKeyboardQMK](https://github.com/balthazar-space/balthazarKeyboardQMK)
+
 Previous versions:
    - [Version 2](https://github.com/balthazar-space/balthazarKeyboard2)
    - [Version 1](https://github.com/balthazar-space/balthazarKeyboard)
